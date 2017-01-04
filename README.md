@@ -10,3 +10,6 @@ https://github.com/Marqt/ViZDoom/blob/master/doc/Building.md
 
 2. Torch
 http://torch.ch/docs/getting-started.html#_
+
+
+Video Demo of Agent on HealthGathering task : https://www.youtube.com/watch?v=yMFDXfYYaqU
